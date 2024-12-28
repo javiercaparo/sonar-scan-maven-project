@@ -1,1 +1,1 @@
-# myJuly2023Weekday
+# Automate Code Scan using SonarQube In GitHub Actions
